@@ -1,0 +1,22 @@
+{
+  "name": "wangeditor-latex-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "@wangeditor/plugin-formula": "^1.0.11",
+    "katex": "^0.15.2",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^4.1.3",
+    "vite": "^4.3.9"
+  }
+}
